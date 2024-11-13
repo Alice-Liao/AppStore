@@ -38,43 +38,8 @@ A full-stack web application that allows users to browse, search, and purchase a
 ## Getting Started
 
 1. Clone the repository:
-   bash
-   git clone [your-repository-url]
-Install dependencies:
-npm install
-Start the development server:
-npm start
-The application will open in your default browser at http://localhost:3000
-Environment Setup
+```bash
+git clone [your-repository-url]
 
-Make sure you have the following installed:
 
-Node.js (version 12 or higher)
-npm (Node Package Manager)
-Project Structure
 
-src/
-├── components/
-│   ├── HomePage.js
-│   ├── LoginForm.js
-│   ├── PostApps.js
-│   └── SignupButton.js
-├── utils.js
-├── App.js
-└── index.js
-API Integration
-
-The application integrates with a backend API hosted at folkloric-air-420802.ue.r.appspot.com with the following endpoints:
-
-/signin - User authentication
-/signup - User registration
-/upload - App upload
-/search - App search
-/checkout - Purchase processing
-Contributing
-
-Fork the repository
-Create your feature branch (git checkout -b feature/AmazingFeature)
-Commit your changes (git commit -m 'Add some AmazingFeature')
-Push to the branch (git push origin feature/AmazingFeature)
-Open a Pull Request
