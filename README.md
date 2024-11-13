@@ -41,5 +41,7 @@ A full-stack web application that allows users to browse, search, and purchase a
 ```bash
 git clone [your-repository-url]
 
-
+2. Install dependencies:
+```bash
+npm install
 
