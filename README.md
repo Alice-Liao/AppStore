@@ -38,7 +38,7 @@ A full-stack web application that allows users to browse, search, and purchase a
 ## Getting Started
 
 1. Clone the repository:
-   ```bash
+   bash
    git clone [your-repository-url]
 Install dependencies:
 npm install
