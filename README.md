@@ -40,6 +40,7 @@ A full-stack web application that allows users to browse, search, and purchase a
 1. Clone the repository:
 ```bash
 git clone [your-repository-url]
+```bash
 
 2. Install dependencies:
 
